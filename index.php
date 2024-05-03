@@ -7,7 +7,7 @@ error_reporting(E_ALL);
 // Database connection
 $servername = "localhost";
 $username = "contact-book";
-$password = "C0nt4ct-B00k";
+$password = "Anisa";
 $dbname = "contacts_db";
 
 // Local dev
@@ -76,7 +76,7 @@ $result = $conn->query($sql);
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: darkseagreen;
+            background-color: darkblue;
         }
         .container {
             max-width: 80%;
